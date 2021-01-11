@@ -14,7 +14,7 @@ def printLine(memory,expectedChar):
         time.sleep(0.005)
     return 1
 ##Main
-ourString = "Hello World !  "
+ourString = "Hello World !!!!! ........... this is the wiredest & worst way to print XD "
 memory = ""
 print("Presenting to you the worst way to print Hello World.......")
 time.sleep(2)
